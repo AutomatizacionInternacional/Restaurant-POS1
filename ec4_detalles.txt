@@ -1,0 +1,19 @@
+
+Sistema de Restaurante en PHP y MySQL
+
+Requerimentos
+
+- Nuestra Heladería funciona básicamente de dos formas:
+1.- Las personas entran a nuestro local y se ubican en una mesa, el mesero se acerca y toma el pedido, en esta caso nuestro personal se acercará a la mesa y tomaria el pedido desde una tablet, para ello se necesita que el sistema tenga la funcionalidad de seleccionar la mesa a la que se está atendiendo. Luego de tomar el pedido en la tablet, no se generará ningún recibo, esto se llevará acabo al final de la venta. Debe existir la posibilidad de agregar productos del menú al pedido, es decir el pedido quedará abierto hasta que el cliente cierre y cancele su pedido que sería al final de la venta.
+2.- Segundo escenario: Se vende productos a personas que pasan por la calle(ambulante)  para ello necesitamos que el pedido se genere sin necesidad de que se escoja una mesa
+
+Al final de la venta debe existir una opción para cerrar y en ese momento se da la cuenta al cliente para que pague.
+Debe existir la funcionalidad de crear mesas y numerarlas si es posible presentarlas en un ambiente gráfico con el estado en el que se encuentra (mesa tomada el pedido, mesa en espera, mesa atendida, mesa libre)
+Por cada pedido que exista la posibilidad de ingresar alguna observación y esta debe ser visualizada en la pantalla del cocinero
+
+Las credenciales de acceso del usuario de tipo Administrativo son las siguientes:
+
+Usuario: configuroweb
+Contraseña: 1234abcd..
+
+Pago : $25.00
